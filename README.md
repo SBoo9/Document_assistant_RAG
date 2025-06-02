@@ -39,7 +39,7 @@ Streamlit – Optional web frontend
 bash
 Copy
 Edit
-git clone https://github.com/SBoo9/Document_assistang_RAG.git
+git clone https://github.com/SBoo9/Document_assistant_RAG.git
 cd Document_assistang_RAG
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
