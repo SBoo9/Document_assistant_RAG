@@ -1,0 +1,40 @@
+# Byte-compiled / virtual environment
+__pycache__/
+*.py[cod]
+*.so
+.env/
+venv/
+env/
+*.env
+*.sqlite3
+rag_docs.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# FAISS or vectorstore artifacts
+*.faiss
+index_store/
+chunks_store/
+
+
+# Ignore Python virtual environments
+venv/
+env/
+.docbot_env/
+docbot_env/
+
+# Other useful ignores
+__pycache__/
+*.py[cod]
+*.so
+*.sqlite3
+*.faiss
+.DS_Store
+__pycache__/
+*.pyc
+docbot_env/

@@ -1,0 +1,38 @@
+# Core
+numpy
+pandas
+python-dotenv
+
+# PDF & Image Processing
+PyMuPDF           # aka fitz
+pdf2image
+pytesseract
+Pillow
+
+# OCR tools (optional, e.g., for multilingual or complex layouts)
+easyocr
+
+# FastAPI & ASGI server
+fastapi
+uvicorn[standard]
+
+# LLM / Embeddings / Vector Search
+sentence-transformers
+faiss-cpu
+transformers
+torch
+
+# CORS
+fastapi[all]
+
+
+pytesseract
+pdf2image
+Pillow
+
+pytesseract
+
+langchain faiss-cpu transformers sentence-transformers
+langchain faiss-cpu   
+
+streamlit requests
